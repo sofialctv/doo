@@ -27,7 +27,7 @@ Seu objetivo é criar um sistema que possa ler a temperatura de qualquer sensor 
 - Crie adaptadores para cada sensor (SensorAAdapter, SensorBAdapter, SensorCAdapter) que implementam ITemperatureSensor.
 - Demonstre como seu sistema pode ler a temperatura de diferentes sensores de forma unificada.
 
-### s2. Padrão Bridge (Ponte)
+### 2. Padrão Bridge (Ponte)
 
 ****Exercício:****
 Imagine que você está criando uma aplicação de desenho gráfico que suporta diferentes formas (círculo, quadrado) e diferentes cores (vermelho, azul). Você quer ser capaz de combinar qualquer forma com qualquer cor sem criar classes para cada combinação possível.
@@ -42,7 +42,7 @@ Use o padrão Bridge para separar as formas das cores.
 - Implemente formas concretas (Circle, Square) que derivam de Shape.
 - Demonstre como você pode criar diferentes combinações de formas e cores.
 
-## 3. Padrão Composite (Composto)
+### 3. Padrão Composite (Composto)
 
 **Exercício:**
 
@@ -57,7 +57,7 @@ Use o padrão Composite para representar o menu como uma estrutura de árvore on
 - Implemente a classe Menu que pode conter múltiplos IMenuComponent.
 - Demonstre como montar um menu completo com itens e submenus e exibi-lo.
 
-## 4. Padrão Decorator (Decorador)
+### 4. Padrão Decorator (Decorador)
 
 ****Exercício:****
 Você está criando um sistema de notificações que pode enviar mensagens via e-mail, SMS e/ou push notifications. Você quer permitir que os usuários escolham múltiplos métodos de notificação.
@@ -71,7 +71,7 @@ Use o padrão Decorator para adicionar dinamicamente diferentes tipos de notific
 - Crie decoradores como EmailDecorator, SMSDecorator, PushDecorator que também implementam INotification.
 - Demonstre como você pode compor notificações para enviar mensagens via múltiplos canais.
 
-## 5. Padrão Facade (Fachada)
+### 5. Padrão Facade (Fachada)
 
 **Exercício:**
 
@@ -85,7 +85,7 @@ Use o padrão Facade para criar uma interface simplificada que permita ao usuár
 - Crie a classe HomeTheaterFacade com os métodos PlayMovie(string movie) e EndMovie().
 - Demonstre como o usuário pode usar HomeTheaterFacade para controlar todo o sistema de forma simples.
 
-## 6. Padrão Flyweight (Peso-Mosca)
+### 6. Padrão Flyweight (Peso-Mosca)
 
 **Exercício:**
 
@@ -100,7 +100,7 @@ Use o padrão Flyweight para compartilhar objetos semelhantes (por exemplo, o mo
 - Crie a classe Tree que contém o estado extrínseco (por exemplo, posição).
 - Demonstre como criar múltiplas instâncias de Tree que compartilham o mesmo TreeType.
 
-## 7. Padrão Proxy
+### 7. Padrão Proxy
 
 **Exercício:**
 

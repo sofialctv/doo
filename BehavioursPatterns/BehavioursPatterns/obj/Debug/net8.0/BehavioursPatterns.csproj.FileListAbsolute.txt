@@ -1,0 +1,15 @@
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\obj\Debug\net8.0\BehavioursPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\obj\Debug\net8.0\BehavioursPatterns.AssemblyInfoInputs.cache
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\obj\Debug\net8.0\BehavioursPatterns.AssemblyInfo.cs
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\obj\Debug\net8.0\BehavioursPatterns.csproj.CoreCompileInputs.cache
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\obj\Debug\net8.0\BehavioursPatterns.sourcelink.json
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\bin\Debug\net8.0\BehavioursPatterns.exe
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\bin\Debug\net8.0\BehavioursPatterns.deps.json
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\bin\Debug\net8.0\BehavioursPatterns.runtimeconfig.json
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\bin\Debug\net8.0\BehavioursPatterns.dll
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\bin\Debug\net8.0\BehavioursPatterns.pdb
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\obj\Debug\net8.0\BehavioursPatterns.dll
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\obj\Debug\net8.0\refint\BehavioursPatterns.dll
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\obj\Debug\net8.0\BehavioursPatterns.pdb
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\obj\Debug\net8.0\BehavioursPatterns.genruntimeconfig.cache
+C:\dev\doo\BehavioursPatterns\BehavioursPatterns\obj\Debug\net8.0\ref\BehavioursPatterns.dll
